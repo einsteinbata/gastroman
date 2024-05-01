@@ -11,8 +11,7 @@
 	<groupId>com.bata</groupId>
 	<artifactId>gastroman</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>exemp</name>
-	<description>Demo project for Spring Boot</description>
+	<name>GastroMan</name>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
@@ -62,24 +61,6 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-jpa</artifactId>
 		</dependency>
-
-	<!--	<dependency>
-			<groupId>org.hibernate</groupId>
-			<artifactId>hibernate-core</artifactId>
-			<version>5.6.12.Final</version>
-		</dependency>
-
-		<dependency>
-			<groupId>org.hibernate</groupId>
-			<artifactId>hibernate-entitymanager</artifactId>
-			<version>5.6.12.Final</version>
-		</dependency>
-
-		<dependency>
-			<groupId>javax.xml.bind</groupId>
-			<artifactId>jaxb-api</artifactId>
-			<version>2.3.0</version>
-		</dependency> -->
 
 		<dependency>
 			<groupId>com.google.code.gson</groupId>
